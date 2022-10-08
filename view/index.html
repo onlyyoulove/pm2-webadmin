@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>pm2 web by vx:eoscoinyesok</title>
+</head>
+<body>
+	<div>
+	若没读取到pm2进程列表请刷新页面<br/><br/>
+	$$pm2list$$
+	</div>
+	<form action="/start" method="GET">
+	绝对路径:<input type="text" name="jspath" value=""><input type="hidden" name="mypass" value="$$mypass$$"><input type="submit" value="新增执行">
+	</from>
+</body>
+</html>

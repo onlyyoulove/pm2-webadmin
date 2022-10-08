@@ -14,5 +14,7 @@ pm2 start pm2.js
 管理: 
 你的ip:4343/index
 
+![pm2](https://user-images.githubusercontent.com/50541095/194703392-99b8e3f4-169f-4309-9afc-51d9a08b4d64.png)
+
 
 另外，请自定义设定pm2.js文件里预设的端口和管理密码

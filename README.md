@@ -6,11 +6,17 @@ pm2 最简单的web可视化管理前端
 利用pm2 http api做的
 
 安装：
+
 npm i pm2
+
 npm i http
+
 npm i path
+
 npm i fs
+
 npm i querystring
+
 npm i url
 
 运行:
